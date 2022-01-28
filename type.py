@@ -33,3 +33,10 @@ a = float(input("Enter hours : "))
 b = float(input("Enter rate : "))
 # the pay
 print(f"The gross pay is : {a * b}")
+
+# Enter base
+a = float(input("Enter base : "))
+# Enter height
+b = float(input("Enter height: "))
+# the area
+print(f"The area of the triangle is : { 0.5 * a * b}cm2")
